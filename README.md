@@ -1,5 +1,4 @@
 # hello_world
-My first little demo
 
 Something Just Like This  
 
